@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+    font-family: 'Rampart One', cursive;
+}
+
+.heading {
+    font-size: 27px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+#start {
+    font-size: 23px;
+    width: 30%;
+    height: 40px;
+    bottom: 6px;
+}
+
+#number_of_objects,
+#status {
+    font-size: 23px;
+    width: 30%;
+    height: 40px;
+    padding-top: 2px;
+
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    background-color: grey;
+    height: 30px;
+}
+
+canvas {
+    border: 2px dashed white;
+    border-radius: 5px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px 5px white;
+}
